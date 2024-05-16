@@ -1,0 +1,3 @@
+1. Write code to get array of names from given array of users
+2. Get back only active users
+3. Sort users by age descending
